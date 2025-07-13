@@ -8,4 +8,4 @@ Aqui estão organizados:
 
 Objetivo: documentar de forma clara o funcionamento, a estrutura e a interface do Eventix, um sistema para gerenciamento de eventos, palestras, ingressos e participantes.
 
-Este material foi desenvolvido colaborativamente por Giseli Matos e [Richardson Romig](github.com/romigrick)
+Este material foi desenvolvido colaborativamente por Giseli Matos e [Richardson Romig](https://github.com/romigrick).
